@@ -31,8 +31,10 @@
       'GRID_SPACING' : 1,
       'MAX_FPS' : 24,
       'DEFAULT_SIZE' : {
-        width : Constants.DEFAULT.WIDTH,
-        height : Constants.DEFAULT.HEIGHT
+        //width : Constants.DEFAULT.WIDTH,
+        //height : Constants.DEFAULT.HEIGHT
+          width : 132,
+          height : 48
       },
       'CANVAS_BACKGROUND' : 'lowcont-dark-canvas-background',
       'SELECTED_PALETTE' : Constants.CURRENT_COLORS_PALETTE_ID,
